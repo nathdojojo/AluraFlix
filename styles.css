@@ -2,7 +2,7 @@ body {
     color: rgb(184, 30, 163);
     background: rgb(255, 31, 199);
     margin: 0px;
-    font-family: "Cossette Texte", sans-serif; }
+    font-family: "PT Sans", sans-serif; }
 
 header {
      border-bottom: solid 2px rgb(172, 26, 164);
@@ -23,4 +23,15 @@ section {
 
 .chamada-texto {
     margin-right: 5%;
+}
+h1{
+    font-size: 40px;
+}
+
+p{
+    font-size: 20px;
+}
+
+img{
+    height: 200px;
 }
